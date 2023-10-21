@@ -1,10 +1,19 @@
-### Oii 👋, meu nome é Luis Gabriel
+### Olá 🚀, meu nome é Luis Gabriel
 #### Mobile Software Developer
 ![Mobile Software Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac, apaixonado por tecnologia e resolvo problemas complexos para melhorar a experiência dos usuários na área mobile.
 
-Skills: Kotlin 
+Experiência técnica
 
-- 🔭 I’m currently working on this page. 
+- Android Studio
+- IntelliJ IDEA
+- Kotlin
+- Java
+- Google Firebase
+- Iniciante em Google Cloud
 
+Repositórios
+
+- Git
+- Github

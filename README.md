@@ -4,7 +4,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac, apaixonado por tecnologia e resolvo problemas complexos para melhorar a experiência dos usuários na área mobile.
 
-Experiência técnica
+Hard Skills
 
 - Android Studio
 - IntelliJ IDEA

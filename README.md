@@ -11,6 +11,7 @@ Hard Skills
 - Kotlin
 - Java
 - Google Firebase
+- SQL & MySQL
 - Iniciante em Google Cloud
 
 Repositórios
